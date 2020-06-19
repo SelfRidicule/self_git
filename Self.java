@@ -4,6 +4,8 @@ public class Self{
         System.out.println("hello");
         System.out.println("word");
         System.out.println("bad");
+        System.out.println("over");
+
     }
 
 }
